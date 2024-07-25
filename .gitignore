@@ -1,0 +1,9 @@
+# .gitignore example
+*.log
+*.tmp
+*.swp
+.env
+.DS_Store
+node_modules/
+dist/
+build/
